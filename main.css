@@ -1,0 +1,32 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+
+.main {
+    
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.title {
+    color: grey;
+    text-align: center;
+}
+
+.btn {
+    background-color: aquamarine;
+    padding: 5px;
+    width: 100px;
+   border-radius: 10px;
+}
+
+.title2 {
+    color: white;
+}
